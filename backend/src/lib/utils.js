@@ -9,7 +9,6 @@ export const generateToken = (userId, res) => {
     httpOnly: true,
     secure: process.env.NODE_ENV !== "development",
     sameSite: "strict",
-    // 1 day
   });
 
   return token;
