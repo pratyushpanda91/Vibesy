@@ -1,11 +1,11 @@
 # ⚡ Vibesy
 
-A full-stack **MERN** (MongoDB • Express • React • Node.js) real-time chat application that brings the social vibes alive with instant messaging, online presence tracking, JWT authentication, global state via Zustand, and beautiful theming with TailwindCSS + DaisyUI.
+A full-stack **MERN** (MongoDB • Express • React • Node.js) real-time chat application that brings the social vibes alive with instant messaging, online presence tracking, JWT authentication, global state via Zustand and beautiful theming with TailwindCSS + DaisyUI.
 
 📸 Integrated with **Cloudinary** for smooth media uploads and profile image handling.  
 🎨 Switch between **16 DaisyUI themes** to personalize your chat experience.
 
-🌐 **Live Demo:** [https://vibesy-chat.onrender.com](https://vibesy.onrender.com) <!-- Replace with your actual Render URL -->
+🌐 **Live Demo:** [https://Vibesy.onrender.com](https://vibesy.onrender.com/) <!-- Replace with your actual Render URL -->
 
 ---
 
@@ -100,4 +100,4 @@ This project is licensed under the **ISC License**.
 
 ---
 
-> 💡 Vibesy is built to make real-time chat feel fun, personalized, and smooth — the way social apps should be.
+> 💡 Vibesy is built to make real-time chat feel fun, personalized and smooth — the way social apps should be.
